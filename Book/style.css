@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 65%;
+    margin: auto;
+}
+p{
+    text-indent: 20px;
+    font-size: 22px;
+    line-height: 32px;
+}
+h1{
+    text-align: center;
+    margin: 20px 0;
+}
+h2{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.changeYourPage{
+   margin: 40px 0 20px 10px;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin-right: 50px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
+.margin-top{
+    margin-top: 100px;
+}
+.subscribe{
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+}
+.subscribe:hover{
+    color: red;
+    transition: 0.1s;
+    text-decoration: none;
+}
+li a:hover{
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}

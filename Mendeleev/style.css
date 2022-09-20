@@ -1,0 +1,32 @@
+tr{
+    text-align: center;
+    background-color: rgb(230, 227, 227);
+}
+.element{
+    color: rgb(0, 0, 133);
+    font-size: 24px;
+}
+td{
+    padding: 4px 8px;
+    border: 1px solid gray;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: rgb(86, 189, 223);
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: rgb(18, 217, 18);
+}
+.main{
+    font-size: 18px;
+    font-weight: bolder;
+    color: rgb(173, 55, 4);
+}
+.empty{
+    padding-bottom: 20px;
+}
