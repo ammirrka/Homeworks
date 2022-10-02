@@ -5,3 +5,63 @@
     text-decoration: none;
     list-style: none;
 }
+.main{
+    width: 1000px;
+    background-color: #C4C4C4;
+    margin: auto;
+    padding: 50px;
+}
+.line{
+    background-color: #E6E6E6;
+}
+.clear{
+    clear: both;
+}
+.card{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: #FC8F8F;
+}
+.card p{
+    font-size: 64px;
+    font-weight: 700;
+    color: #FFFFFF;
+    padding-top: 60px;
+}
+.one{
+    float: left;
+}
+.two{
+    float: right;
+}
+.three{
+    float: right;
+}
+.small-card{
+    background-color: #FC8F8F;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.small-card.two{
+    margin-right: 15px;
+}
+.small-card p{
+    margin-top: 30px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #fff;
+}
+.line.tre div:nth-child(2){
+    margin-left: 15px;
+}
+.line.tre div:nth-child(4){
+    margin-right: 15px;
+}
+.line.due{
+    margin-top: 50px;
+}
+.line.tre{
+    margin-top: 50px;
+}
